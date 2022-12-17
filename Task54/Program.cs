@@ -14,8 +14,8 @@ void InputMatrix(int[,] matrix)
         Console.WriteLine();
     }
 }
-// располагаю от минимального элемента к максимальному
-void MinToMax(int[,] matrix)
+// располагаю от максимального элемента к минимальному
+void MaxToMin(int[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
@@ -23,7 +23,7 @@ void MinToMax(int[,] matrix)
         {
             for (int k = 0; k < matrix.GetLength(1) - 1; k++)
             {
-                if (matrix[i, k] > matrix[i, k + 1])
+                if (matrix[i, k] < matrix[i, k + 1])
                 {
                     int temp = matrix[i, k + 1];
                     matrix[i, k + 1] = matrix[i, k];
@@ -53,4 +53,4 @@ InputMatrix(matrix);
 
 Console.WriteLine();
 Console.WriteLine("Новый массив");
-MinToMax(matrix);
+MaxToMin(matrix);
