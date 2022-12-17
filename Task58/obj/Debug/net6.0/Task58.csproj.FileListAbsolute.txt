@@ -1,0 +1,15 @@
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/Task58.csproj.AssemblyReference.cache
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/Task58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/Task58.AssemblyInfoInputs.cache
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/Task58.AssemblyInfo.cs
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/Task58.csproj.CoreCompileInputs.cache
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/bin/Debug/net6.0/Task58
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/bin/Debug/net6.0/Task58.deps.json
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/bin/Debug/net6.0/Task58.runtimeconfig.json
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/bin/Debug/net6.0/Task58.dll
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/bin/Debug/net6.0/Task58.pdb
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/Task58.dll
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/refint/Task58.dll
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/Task58.pdb
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/Task58.genruntimeconfig.cache
+/Users/anastasiaolegovna/Desktop/C#seminar8/Task58/obj/Debug/net6.0/ref/Task58.dll
